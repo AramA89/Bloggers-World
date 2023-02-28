@@ -1,4 +1,25 @@
 {
+  "name": "bloggers-world",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AramA89/Bloggers-World.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AramA89/Bloggers-World/issues"
+  },
+  "homepage": "https://github.com/AramA89/Bloggers-World#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "connect-session-sequelize": "^7.1.5",
@@ -14,4 +35,5 @@
     "sequelize": "^6.25.8",
     "sequelize-cli": "^6.5.2"
   }
+  
 }
