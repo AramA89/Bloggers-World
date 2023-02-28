@@ -14,3 +14,10 @@ The following animation demonstrates the application functionality:
 
 ![Animation cycles through signing into the app, clicking on buttons, and updating blog posts.](./Assets/14-mvc-homework-demo-01.gif) 
 
+## GitHub Repository
+
+https://github.com/AramA89/Bloggers-World
+
+## Deployed Webpage
+
+https://arama89.github.io/Bloggers-World/
